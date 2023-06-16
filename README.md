@@ -65,7 +65,8 @@ print("{:.2f}".format(ans))
 <br>
 
 ### 2-Norm of a Matrix
-![17](https://github.com/vasanth0908/Norm-of-a-matrix/assets/122000018/bae9d16b-2a58-459a-9179-c920c04c3b30)
+![2](https://github.com/vasanth0908/Norm-of-a-matrix/assets/122000018/6644bb2e-f4d5-4798-ab0c-c48b943cfafa)
+
 
 <br>
 <br>
